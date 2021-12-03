@@ -24,8 +24,7 @@ Subtask 3 (Evaluation):
         create downsampled version of ground truth
         add some noise
         decrease resolution (by factor of 4 - 8)
-          
-![lowR_depth](https://user-images.githubusercontent.com/80226882/1![view5](https://user-images.githubusercontent.com/80226882/144677473-1c13473f-0d17-4914-b27d-b408c9584c9c.png)
-44677218-0e3633a2-9ab5-4e24-91f0-e52394dd0942.PNG)
+     ![lowR_depth](https://user-images.githubusercontent.com/80226882/144677610-90f822fc-0622-48d5-b91c-9b1680bd63ae.PNG)
+     ![view5](https://user-images.githubusercontent.com/80226882/144677627-8442980f-0178-4009-ac61-3e29ac69910f.png)
 
-![upsampled_depth](https://user-images.githubusercontent.com/80226882/144677316-74132e13-eeee-4979-93bc-12664d4091e9.PNG)
+     
