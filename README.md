@@ -25,9 +25,7 @@ Subtask 3 (Evaluation):
         add some noise
         decrease resolution (by factor of 4 - 8)
           
-![lowR_depth](https://user-images.githubusercontent.com/80226882/144677218-0e3633a2-9ab5-4e24-91f0-e52394dd0942.PNG)
+![lowR_depth](https://user-images.githubusercontent.com/80226882/1![view5](https://user-images.githubusercontent.com/80226882/144677473-1c13473f-0d17-4914-b27d-b408c9584c9c.png)
+44677218-0e3633a2-9ab5-4e24-91f0-e52394dd0942.PNG)
 
-![view5](https://user-images.githubusercontent.com/80226882/144677235-d11d2c4e-a582-4161-![upsampled_depth](https://user-images.githubusercontent.com/80226882/144677257-84936a40-7660-469e-91f9-b641fda7471a.PNG)
-
-936d-995cf6291c95.png)
 ![upsampled_depth](https://user-images.githubusercontent.com/80226882/144677316-74132e13-eeee-4979-93bc-12664d4091e9.PNG)
