@@ -26,5 +26,9 @@ Subtask 3 (Evaluation):
         decrease resolution (by factor of 4 - 8)
      ![lowR_depth](https://user-images.githubusercontent.com/80226882/144677610-90f822fc-0622-48d5-b91c-9b1680bd63ae.PNG)
      ![view5](https://user-images.githubusercontent.com/80226882/144677627-8442980f-0178-4009-ac61-3e29ac69910f.png)
+     
+     
+     
 
      
+![upsampled_depth](https://user-images.githubusercontent.com/80226882/144677721-41ce0ea6-c7be-4a43-a2d6-362b5f14b91f.PNG)
